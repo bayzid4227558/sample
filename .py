@@ -1,6 +1,6 @@
 
 
-score = input("Your Marks: ")
+score = input("Please insert your Marks: ")
 score = int(score)
 
 if score >= 90:
