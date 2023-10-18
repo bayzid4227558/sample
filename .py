@@ -2,6 +2,7 @@
 
 score = input("Please insert your Marks: ")
 score = int(score)
+print("abc")
 
 if score >= 90:
     grade = "A+"
